@@ -4,8 +4,9 @@ A PHP app that decodes base64 image data from a POST request and exports it to *
 The decoded image is accessible locally and at [https://classify.hopto.org/capture.jpg](https://classify.hopto.org/capture.jpg)
 
 ## Demo
-![https://classify.hopto.org/capture.jpg](https://classify.hopto.org/capture.jpg)
-
+<p align="center">
+    ![https://classify.hopto.org/capture.jpg](https://classify.hopto.org/capture.jpg)
+</p>
 
 ## Running
 
