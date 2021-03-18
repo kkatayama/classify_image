@@ -5,7 +5,7 @@ The decoded image is accessible locally and at [https://classify.hopto.org/captu
 
 ## Demo
 <p align="center">
-    ![https://classify.hopto.org/capture.jpg](https://classify.hopto.org/capture.jpg)
+    <img src="https://classify.hopto.org/capture.jpg">
 </p>
 
 ## Running
